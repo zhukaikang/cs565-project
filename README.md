@@ -4,5 +4,5 @@
 <br>We need to first preprocess data and use PCA to reduce dimensions.</br>
 <br>Then use definition of the algorithm to implement. The clustering results are plotted by matplotlib.</br>
 <br>K-Means on wine dataset </br>
-<br>![kmeans\ with\ pca.png](https://github.com/zhukaikang/cs565-project/blob/master/kmeans%20with%20pca.png)</br>
+![kmeans\ with\ pca.png](https://github.com/zhukaikang/cs565-project/blob/master/kmeans%20with%20pca.png)
 <br>Specific detail can be seen CS565-Project1.pdf</br>
