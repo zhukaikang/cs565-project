@@ -6,5 +6,5 @@
 <br>K-Means on wine dataset </br>
 ![kmeans\ with\ pca.png](https://github.com/zhukaikang/cs565-project/blob/master/kmeans%20with%20pca.png)
 <br>K-Means on churn dataset </br>
-![kmeans\ with\ pca.png](https://github.com/zhukaikang/cs565-project/blob/master/kmeans%20with%20pca.png)
+![kmeans\ with\ pca.png](https://github.com/zhukaikang/cs565-project/blob/master/churn-kmeans.png)
 <br>Specific detail can be seen CS565-Project1.pdf</br>
